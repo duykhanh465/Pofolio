@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="hero reveal">
       <div className="hero-copy">
         <p className="eyebrow">Designer • Developer</p>
-        <h1>Nguyen Dung</h1>
+        <h1>Duy Khanh</h1>
         <p className="role">Front-End Engineer</p>
         <p className="lead">
           Crafting modern interfaces with crisp UI, motion, and strong
@@ -20,8 +20,7 @@ export default function Hero() {
         <div className="hero-card glass">
           <h3>About Me</h3>
           <p>
-            Passionate about clean UI, interactive motion, and consistent design
-            systems for scalable products.
+            Hi, my name is Khanh. I am a third-year student at Ho Chi Minh City University of Transport.
           </p>
         </div>
       </div>
@@ -30,16 +29,16 @@ export default function Hero() {
         <div className="orb secondary" />
         <div className="hero-panel glass">
           <h3>Slogan</h3>
-          <p>Build fast. Look sharp. Stay memorable.</p>
+          <p>No gain No pain</p>
           <div className="divider" />
           <div className="stats">
             <div>
               <span className="label">Experience</span>
-              <span className="value">3+ years</span>
+              <span className="value">0 years</span>
             </div>
             <div>
               <span className="label">Projects</span>
-              <span className="value">18+</span>
+              <span className="value">6+</span>
             </div>
           </div>
         </div>

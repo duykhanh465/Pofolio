@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react'
 
 const initialLines = [
-  "Welcome to Dung's OS v1.0.0",
+  "Welcome to Khanh's OS v1.0.0",
   "Type 'help' to see available commands.",
 ]
 
@@ -13,9 +13,9 @@ const responses: Record<string, string[]> = {
   ],
   projects: ['Glow Commerce, Studio Signal, Atlas Portfolio.'],
   contact: [
-    'Email: hello@pofolio.dev',
-    'GitHub: https://github.com/example',
-    'LinkedIn: https://linkedin.com',
+    'Email: khanh040605@gmail.com',
+    'GitHub: https://github.com/duykhanh465',
+    'LinkedIn: https://linkedin.com/in/duykhanh465',
   ],
 }
 
