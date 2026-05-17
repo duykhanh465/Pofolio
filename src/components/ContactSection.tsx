@@ -11,7 +11,7 @@ export default function ContactSection() {
       </div>
       <div className="contact-links">
         <a className="btn primary" href="mailto:hello@pofolio.dev">
-          hello@pofolio.dev
+          khanh040605@gmail.com
         </a>
         <div className="socials">
           <a href="https://github.com/duykhanh465" target="_blank" rel="noreferrer">

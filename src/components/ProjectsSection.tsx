@@ -10,7 +10,9 @@ export default function ProjectsSection() {
       <div className="cards project-grid">
         {projects.map((project) => (
           <article className="card project-card" key={project.title}>
-            <div className="project-thumb" />
+            <div className="project-thumb">
+              <img src={project.image} alt={project.title} loading="lazy" />
+            </div>
             <div className="card-header">
               <h3>{project.title}</h3>
             </div>
