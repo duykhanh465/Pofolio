@@ -3,7 +3,7 @@ export default function AboutSection() {
     <section className="section reveal" id="about">
       <div className="section-title">
         <p className="eyebrow">About</p>
-        <h2>Gioi thieu</h2>
+        <h2>Introduction</h2>
       </div>
       <div className="two-col">
         <p>
